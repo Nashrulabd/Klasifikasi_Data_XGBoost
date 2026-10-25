@@ -1,0 +1,6 @@
+Metrik,Nilai
+Accuracy,0.8689
+Precision,0.8792
+Recall,0.8878
+F1-Score,0.8835
+ROC-AUC,0.9519
